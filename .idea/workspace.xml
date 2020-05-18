@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a60e353c-8948-4a10-a0f0-7d484747d5eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/AutocompleteSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BlackJackPossibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/GenerateMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MaxPointsOnALine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MinSegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/NumberUniqueEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/PickCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/RandomChoose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/RandomChoose2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/RandomChooseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/RestoreIPAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/ShortestDistanceFromAllBuildings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/TopKSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/WordLadderII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/FruitsIntoBaskets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/AddTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/AddTwoNumbers$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ArrayPartitionI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ArrayPartitionI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/BestTimeToBuyAndSellStocksII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/BestTimeToBuyAndSellStocksII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/Codec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ContainerWithMostWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/DeleteNodeInLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/DeleteNodeInLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/HammingDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/HammingDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/IntegerToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/JewelsAndStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/JewelsAndStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MaximumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MaximumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MaximumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MaximumSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MedianOfTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MedianOfTwoSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/NimGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/NimGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/RomanToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/SingleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/SumOfTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/SumOfTwoIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ValidParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ValidParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithms/ZigZagConversion.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/NumberUniqueEmails.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="85">
               <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,11 +27,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/TrappingRainWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/FruitsIntoBaskets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/PalindromRemoval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -111,6 +93,9 @@
         <option value="/var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[200]Number of Islands.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/NumberUniqueEmails.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/FruitsIntoBaskets.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/PalindromRemoval.java" />
       </list>
     </option>
   </component>
@@ -129,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,11 +137,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554791013817" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589787345918" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,9 +156,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrappingRainWater">
-    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.NumberOfIslands" />
+  <component name="RunManager" selected="Application.PalindromRemoval">
+    <configuration name="FruitsIntoBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.FruitsIntoBaskets" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -187,6 +172,32 @@
     </configuration>
     <configuration name="NumberUniqueEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.NumberUniqueEmails" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.PalindromRemoval" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.ThreeSum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -213,9 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromRemoval" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.FruitsIntoBaskets" />
         <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.NumberUniqueEmails" />
-        <item itemvalue="Application.NumberOfIslands" />
       </list>
     </recent_temporary>
   </component>
@@ -236,24 +249,24 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22650602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49910232" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,16 +283,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[581]Shortest Unsorted Continuous Subarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[581]Shortest Unsorted Continuous Subarray.java" />
     <entry file="file://$PROJECT_DIR$/src/Algorithms/ShortestDistanceFromAllBuildings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -290,9 +294,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[201]Bitwise AND of Numbers Range.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[201]Bitwise AND of Numbers Range.java" />
     <entry file="file://$PROJECT_DIR$/src/Algorithms/RandomChoose2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -307,19 +309,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[200]Number of Islands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/mv/qvh97kh15svdnnv95vvgjm680000gn/T/leetcode-plugin/en/[200]Number of Islands.java" />
     <entry file="file://$PROJECT_DIR$/src/Algorithms/NumberUniqueEmails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="85">
           <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -329,8 +322,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/TrappingRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/FruitsIntoBaskets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/PalindromRemoval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
